@@ -1,0 +1,2 @@
+# fuzzy-Inference-System
+Introduction This is nontrivial mini project of the knowledge and reasoning course. This project  aims to measure the students understanding of the knowledge representation  techniques and how to apply the reasoning mechanisms to infer new knowledge  or taking actions. Project main Architecture This project aims to apply the fuzzy logic in knowledge reasoning while building a fuzzy  Inference System and taking decision.
